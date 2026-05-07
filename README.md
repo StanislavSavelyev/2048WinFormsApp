@@ -20,4 +20,4 @@
 
 • Сохранял результаты игры с помощью сериализации и десериализации данных в формате JSON.
 
-https://github.com/user-attachments/assets/113c9305-bd38-4b33-845f-ddc2398f4e3e
+<img width="546" height="634" alt="Image" src="https://github.com/user-attachments/assets/cbaa2c8e-9633-417e-9d92-a12170a5727b" />
